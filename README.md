@@ -52,7 +52,7 @@ To set up the project locally, follow these steps:
    npm start
    ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `http://localhost:5173`.
 
 ## Usage
 
