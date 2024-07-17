@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #18171f;
+  font-family: 'JetBrainsMono', sans-serif;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono';
+  src: url('./assets/fonts/JetBrainsMono-VariableFont_wght.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
